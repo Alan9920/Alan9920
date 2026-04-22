@@ -48,7 +48,7 @@ Power BI. Currently expanding my stack and working toward new certifications.
 - Incremental load using Delta Lake's native MERGE operation — upserts updated monthly records without full reloads
 - Direct Lake Semantic Model (5 dimensions + fact, star schema) · Power BI report with bar chart, map, and table visuals
 
-🔗 [View Repository]([#](https://github.com/Alan9920/Microsoft-Fabric-Project))
+🔗 [View Repository](https://github.com/Alan9920/Microsoft-Fabric-Project)
 
 ---
 

@@ -36,7 +36,7 @@ Power BI. Currently expanding my stack and working toward new certifications.
 - PySpark transformations in Databricks: deduplication, feature engineering, 7-table star schema joins, NoSQL enrichment
 - OAuth2 Service Principal auth · Snappy Parquet Silver layer · Gold served via Synapse Analytics external tables
 
-🔗 [View Repository]([#](https://github.com/Alan9920/Data-Engineering-Project))
+🔗 [View Repository](https://github.com/Alan9920/Data-Engineering-Project)
 
 ---
 
